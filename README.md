@@ -1,3 +1,3 @@
 # Coursera peer graded assignment
 
-Authors - Shrimayee DattA
+Authors - Shrimayee Datta
